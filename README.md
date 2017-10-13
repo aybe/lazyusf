@@ -6,3 +6,5 @@ such as my C psflib library.
 
 The public interface is described in usf.h. No other headers need to be
 imported into any application which imports the library.
+
+**This is a fork with VS2017 solution**
